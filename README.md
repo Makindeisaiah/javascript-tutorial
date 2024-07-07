@@ -1,3 +1,5 @@
 # Example Resository
 
-Fuck shit!!!!!!!
+Fuck shit!!!!!!!  "Developer Machine"
+
+sup getting this git shit 
